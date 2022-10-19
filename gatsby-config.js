@@ -12,7 +12,7 @@ module.exports = {
       },
       {
         name: 'About',
-        url: 'https://huaizhixu.github.io',
+        url: 'https://github.com/huaizhixu',
       },
     ],
   },
