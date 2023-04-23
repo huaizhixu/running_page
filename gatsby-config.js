@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Running Page',
     siteUrl: 'https://huaizhixu.github.io/running_page',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+    logo: 'https://s2.loli.net/2023/04/23/qQiyVlbSDJp3UPI.jpg',
     description: 'Personal site and blog',
     navLinks: [
       {
